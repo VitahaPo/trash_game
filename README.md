@@ -1,5 +1,5 @@
 # trash_game
-When playing this game you need to chatch the apple (orange sprite) for get scores. Evede other sprites to save your score. 
+When playing this game you need to chatch the apple (orange sprite) to get scores. Evede other sprites to save your score. 
 
 technologies: python 3.4, pygame, livewires.
 
